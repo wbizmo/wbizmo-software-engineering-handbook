@@ -1,30 +1,128 @@
 # Fastify & Express APIs
 
-This module teaches backend API development using Express and Fastify.
+## Overview
 
-Students will build a BookStore API while learning routing, request handling, validation, authentication, security, and production practices.
+This module teaches modern backend API development using Express and Fastify.
 
-## Lessons
+Students build a BookStore API while learning routing, validation, authentication, security, and production practices.
 
-1. Introduction to Web Servers and APIs
-2. Creating Your First Express Server
-3. Creating Your First Fastify Server
-4. Routing, Parameters and Query Strings
-5. Request Bodies, Validation and Error Handling
-6. CRUD APIs and REST Principles
-7. Middleware, Authentication and Security
-8. API Project Structure and Production Practices
+## Why This Module Matters
 
-## Mini Project
+APIs power modern software systems.
 
-BookStore API
+Applications communicate through APIs:
+
+- Web applications
+- Mobile applications
+- SaaS platforms
+- Integrations
+- Automation systems
+
+Backend developers spend a large portion of their careers building APIs.
+
+## Learning Outcomes
+
+By the end of this module you will be able to:
+
+- Build Express APIs
+- Build Fastify APIs
+- Design REST endpoints
+- Handle validation
+- Handle errors
+- Implement authentication
+- Secure APIs
+- Structure backend projects professionally
 
 ## Prerequisites
 
-- JavaScript
-- TypeScript
 - Node.js Fundamentals
+
+## Lessons
+
+### Lesson 01
+Introduction To Web Servers and APIs
+
+### Lesson 02
+Creating Your First Express Server
+
+### Lesson 03
+Creating Your First Fastify Server
+
+### Lesson 04
+Routing, Parameters and Query Strings
+
+### Lesson 05
+Request Bodies, Validation and Error Handling
+
+### Lesson 06
+CRUD APIs and REST Principles
+
+### Lesson 07
+Middleware, Authentication and Security
+
+### Lesson 08
+API Project Structure and Production Practices
+
+## Module Project
+
+BookStore API
+
+Features:
+
+- GET /books
+- GET /books/:id
+- POST /books
+- PUT /books/:id
+- DELETE /books/:id
+- Validation
+- Authentication
+- Health checks
+
+## Skills Gained
+
+- REST API development
+- Fastify
+- Express
+- Validation
+- Authentication
+- API security
+- Project architecture
+
+## Real World Applications
+
+Used in:
+
+- SaaS products
+- Internal platforms
+- Integration systems
+- Mobile backends
+- Developer platforms
+
+## Portfolio Connections
+
+Directly related to:
+
+- SyncGrid API
+- VaultBox API
+- inFlowForge API
+- Argus
+- NOMMO
+
+## Completion Checklist
+
+- [ ] Complete lessons
+- [ ] Complete quizzes
+- [ ] Complete exercises
+- [ ] Complete BookStore API
+
+## Additional Resources
+
+https://fastify.dev/docs/latest/
+
+https://expressjs.com/
+
+https://owasp.org/www-project-api-security/
 
 ## Next Module
 
-Databases and SQL
+Databases & SQL
